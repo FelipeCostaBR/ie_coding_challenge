@@ -1,5 +1,11 @@
 # Code-Challenge-1
 
+### dependecies 
+
+prompt-sync is a dependency of this program.
+
+run *npm install* in the terminal
+
 Code problem details:
 
 -----------
