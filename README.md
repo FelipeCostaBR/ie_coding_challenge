@@ -7,7 +7,7 @@
 
 - prompt-sync is a dependency of this program.
 
-run *npm install* in the terminal
+run *npm install*
 
 ### how to execute this program
 
