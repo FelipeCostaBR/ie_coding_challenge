@@ -1,10 +1,19 @@
 # Code-Challenge-1
 
+### Technology
+- Javascript/ NodeJs
+
 ### dependecies 
 
 - prompt-sync is a dependency of this program.
 
 run *npm install* in the terminal
+
+### how to execute this program
+
+after clone this repository go inside of the project and execute in the terminal
+* node script.js
+
 
 Code problem details:
 
