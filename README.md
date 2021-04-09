@@ -2,7 +2,7 @@
 
 ### dependecies 
 
-prompt-sync is a dependency of this program.
+- prompt-sync is a dependency of this program.
 
 run *npm install* in the terminal
 
